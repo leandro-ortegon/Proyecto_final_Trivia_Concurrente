@@ -1,0 +1,19 @@
+# Compilación Elixir
+/_build/
+/deps/
+*.beam
+*.ez
+
+# Configuración local VS Code / ElixirLS
+/.elixir_ls/
+
+# Archivos temporales
+*.swp
+erl_crash.dump
+
+# Datos generados en tiempo de ejecución por el servidor.
+# El banco de preguntas (data/questions.json) SÍ se versiona.
+/data/users.json
+/data/results.log
+/data/*.tmp
+/tmp/

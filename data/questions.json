@@ -1,0 +1,1564 @@
+{
+  "preguntas": [
+    {
+      "id": "cie-b-01",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es el símbolo químico del agua?",
+      "opciones": {
+        "A": "H2O",
+        "B": "CO2",
+        "C": "O2",
+        "D": "NaCl"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "cie-b-02",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Qué planeta es conocido como el planeta rojo?",
+      "opciones": {
+        "A": "Venus",
+        "B": "Júpiter",
+        "C": "Marte",
+        "D": "Saturno"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "cie-b-03",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Cuántas patas tiene un insecto?",
+      "opciones": {
+        "A": "Cuatro",
+        "B": "Seis",
+        "C": "Ocho",
+        "D": "Diez"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-b-04",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+      "opciones": {
+        "A": "Oxígeno",
+        "B": "Nitrógeno",
+        "C": "Helio",
+        "D": "Dióxido de carbono"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "cie-b-05",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es el órgano que bombea la sangre en el cuerpo humano?",
+      "opciones": {
+        "A": "El hígado",
+        "B": "El corazón",
+        "C": "Los pulmones",
+        "D": "El riñón"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-b-06",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿A qué temperatura hierve el agua al nivel del mar?",
+      "opciones": {
+        "A": "100 °C",
+        "B": "90 °C",
+        "C": "50 °C",
+        "D": "120 °C"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "cie-b-07",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es la estrella más cercana a la Tierra?",
+      "opciones": {
+        "A": "Sirio",
+        "B": "Polaris",
+        "C": "El Sol",
+        "D": "Alfa Centauri A"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "cie-b-08",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Qué parte de la planta absorbe el agua del suelo?",
+      "opciones": {
+        "A": "Las hojas",
+        "B": "Las flores",
+        "C": "El tallo",
+        "D": "Las raíces"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "cie-b-09",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es el estado del agua cuando se congela?",
+      "opciones": {
+        "A": "Líquido",
+        "B": "Sólido",
+        "C": "Gaseoso",
+        "D": "Plasma"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-b-10",
+      "tema": "ciencia",
+      "nivel": "basico",
+      "enunciado": "¿Qué animal es un mamífero?",
+      "opciones": {
+        "A": "El tiburón",
+        "B": "El pingüino",
+        "C": "La ballena",
+        "D": "La tortuga"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "cie-i-01",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es el número atómico del carbono?",
+      "opciones": {
+        "A": "6",
+        "B": "8",
+        "C": "12",
+        "D": "14"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "cie-i-02",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué orgánulo celular produce la mayor parte de la energía (ATP)?",
+      "opciones": {
+        "A": "El núcleo",
+        "B": "La mitocondria",
+        "C": "El ribosoma",
+        "D": "El aparato de Golgi"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-i-03",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es la unidad de fuerza en el Sistema Internacional?",
+      "opciones": {
+        "A": "Joule",
+        "B": "Pascal",
+        "C": "Watt",
+        "D": "Newton"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "cie-i-04",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué tipo de enlace une los átomos de una molécula de cloruro de sodio (NaCl)?",
+      "opciones": {
+        "A": "Covalente",
+        "B": "Metálico",
+        "C": "Iónico",
+        "D": "Puente de hidrógeno"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "cie-i-05",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuántos cromosomas tiene normalmente una célula humana somática?",
+      "opciones": {
+        "A": "23",
+        "B": "46",
+        "C": "44",
+        "D": "48"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-i-06",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": {
+        "A": "Júpiter",
+        "B": "Saturno",
+        "C": "Neptuno",
+        "D": "Urano"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "cie-i-07",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué científico formuló las tres leyes del movimiento?",
+      "opciones": {
+        "A": "Galileo Galilei",
+        "B": "Albert Einstein",
+        "C": "Johannes Kepler",
+        "D": "Isaac Newton"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "cie-i-08",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es el pH aproximado del agua pura a 25 °C?",
+      "opciones": {
+        "A": "1",
+        "B": "7",
+        "C": "10",
+        "D": "14"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-i-09",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "opciones": {
+        "A": "Oxígeno",
+        "B": "Argón",
+        "C": "Nitrógeno",
+        "D": "Dióxido de carbono"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "cie-i-10",
+      "tema": "ciencia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué tipo de sangre se considera donante universal de glóbulos rojos?",
+      "opciones": {
+        "A": "O negativo",
+        "B": "AB positivo",
+        "C": "A positivo",
+        "D": "B negativo"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "cie-a-01",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+      "opciones": {
+        "A": "300.000 km/s",
+        "B": "150.000 km/s",
+        "C": "30.000 km/s",
+        "D": "3.000.000 km/s"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "cie-a-02",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué partícula subatómica tiene carga eléctrica neutra?",
+      "opciones": {
+        "A": "El protón",
+        "B": "El electrón",
+        "C": "El positrón",
+        "D": "El neutrón"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "cie-a-03",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es la constante de Avogadro aproximada?",
+      "opciones": {
+        "A": "3,00 × 10^8",
+        "B": "6,022 × 10^23",
+        "C": "9,81",
+        "D": "1,602 × 10^-19"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-a-04",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué científica fue la primera persona en ganar dos premios Nobel?",
+      "opciones": {
+        "A": "Rosalind Franklin",
+        "B": "Lise Meitner",
+        "C": "Marie Curie",
+        "D": "Ada Lovelace"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "cie-a-05",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es el elemento químico más abundante en el universo?",
+      "opciones": {
+        "A": "Helio",
+        "B": "Hidrógeno",
+        "C": "Oxígeno",
+        "D": "Carbono"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-a-06",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué base nitrogenada se encuentra en el ARN pero no en el ADN?",
+      "opciones": {
+        "A": "Timina",
+        "B": "Citosina",
+        "C": "Adenina",
+        "D": "Uracilo"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "cie-a-07",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué ley establece que la presión y el volumen de un gas son inversamente proporcionales a temperatura constante?",
+      "opciones": {
+        "A": "Ley de Boyle",
+        "B": "Ley de Charles",
+        "C": "Ley de Gay-Lussac",
+        "D": "Ley de Hooke"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "cie-a-08",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es la unidad del Sistema Internacional para la intensidad luminosa?",
+      "opciones": {
+        "A": "Lumen",
+        "B": "Lux",
+        "C": "Candela",
+        "D": "Watt"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "cie-a-09",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cómo se llama el proceso por el cual una célula se divide en dos células hijas idénticas?",
+      "opciones": {
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Fecundación",
+        "D": "Gemación"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "cie-a-10",
+      "tema": "ciencia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué valor tiene aproximadamente la aceleración de la gravedad en la superficie terrestre?",
+      "opciones": {
+        "A": "1,62 m/s²",
+        "B": "3,71 m/s²",
+        "C": "24,79 m/s²",
+        "D": "9,81 m/s²"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "his-b-01",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿En qué año llegó Cristóbal Colón a América?",
+      "opciones": {
+        "A": "1492",
+        "B": "1500",
+        "C": "1453",
+        "D": "1519"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "his-b-02",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿Quién fue el primer presidente de los Estados Unidos?",
+      "opciones": {
+        "A": "Abraham Lincoln",
+        "B": "Thomas Jefferson",
+        "C": "George Washington",
+        "D": "John Adams"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-b-03",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿En qué país se construyeron las pirámides de Guiza?",
+      "opciones": {
+        "A": "México",
+        "B": "Egipto",
+        "C": "Perú",
+        "D": "Grecia"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "his-b-04",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿Qué día se celebra la independencia de Colombia?",
+      "opciones": {
+        "A": "7 de agosto",
+        "B": "12 de octubre",
+        "C": "20 de julio",
+        "D": "25 de diciembre"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-b-05",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿Qué civilización construyó Machu Picchu?",
+      "opciones": {
+        "A": "Los mayas",
+        "B": "Los aztecas",
+        "C": "Los muiscas",
+        "D": "Los incas"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "his-b-06",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿Cómo se llamaba el muro que dividía la ciudad de Berlín?",
+      "opciones": {
+        "A": "Muro de Adriano",
+        "B": "Muro de Berlín",
+        "C": "Gran Muralla",
+        "D": "Muro de las Lamentaciones"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "his-b-07",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿Quién pintó la Mona Lisa?",
+      "opciones": {
+        "A": "Leonardo da Vinci",
+        "B": "Miguel Ángel",
+        "C": "Pablo Picasso",
+        "D": "Vincent van Gogh"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "his-b-08",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿Qué imperio tenía su capital en Roma?",
+      "opciones": {
+        "A": "El Imperio otomano",
+        "B": "El Imperio persa",
+        "C": "El Imperio romano",
+        "D": "El Imperio mongol"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-b-09",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿Quién es conocido como el Libertador de varios países de Sudamérica?",
+      "opciones": {
+        "A": "José de San Martín",
+        "B": "Simón Bolívar",
+        "C": "Francisco de Paula Santander",
+        "D": "Antonio Nariño"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "his-b-10",
+      "tema": "historia",
+      "nivel": "basico",
+      "enunciado": "¿En qué continente surgió la civilización griega antigua?",
+      "opciones": {
+        "A": "Asia",
+        "B": "África",
+        "C": "América",
+        "D": "Europa"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "his-i-01",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "opciones": {
+        "A": "1914",
+        "B": "1918",
+        "C": "1939",
+        "D": "1905"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "his-i-02",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿En qué año cayó el Muro de Berlín?",
+      "opciones": {
+        "A": "1985",
+        "B": "1991",
+        "C": "1989",
+        "D": "1979"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-i-03",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué batalla de 1819 selló la independencia de la Nueva Granada?",
+      "opciones": {
+        "A": "Batalla de Ayacucho",
+        "B": "Batalla de Boyacá",
+        "C": "Batalla de Carabobo",
+        "D": "Batalla de Pichincha"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "his-i-04",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué acontecimiento de 1789 marcó el inicio de la Revolución francesa?",
+      "opciones": {
+        "A": "La coronación de Napoleón",
+        "B": "La batalla de Waterloo",
+        "C": "El Congreso de Viena",
+        "D": "La toma de la Bastilla"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "his-i-05",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿Quién fue el primer ser humano en pisar la Luna?",
+      "opciones": {
+        "A": "Neil Armstrong",
+        "B": "Yuri Gagarin",
+        "C": "Buzz Aldrin",
+        "D": "Michael Collins"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "his-i-06",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál era la capital del Imperio azteca?",
+      "opciones": {
+        "A": "Cuzco",
+        "B": "Tenochtitlan",
+        "C": "Chichén Itzá",
+        "D": "Teotihuacán"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "his-i-07",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "opciones": {
+        "A": "1943",
+        "B": "1944",
+        "C": "1945",
+        "D": "1947"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-i-08",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué emperador francés fue derrotado en la batalla de Waterloo?",
+      "opciones": {
+        "A": "Luis XIV",
+        "B": "Carlomagno",
+        "C": "Luis XVI",
+        "D": "Napoleón Bonaparte"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "his-i-09",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué documento firmado en 1215 limitó el poder del rey de Inglaterra?",
+      "opciones": {
+        "A": "La Carta Magna",
+        "B": "La Declaración de Independencia",
+        "C": "El Tratado de Versalles",
+        "D": "El Edicto de Nantes"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "his-i-10",
+      "tema": "historia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué país fue el primero en enviar un satélite artificial al espacio (Sputnik 1)?",
+      "opciones": {
+        "A": "Estados Unidos",
+        "B": "China",
+        "C": "La Unión Soviética",
+        "D": "Francia"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-a-01",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿En qué año cayó Constantinopla en manos del Imperio otomano?",
+      "opciones": {
+        "A": "1204",
+        "B": "1453",
+        "C": "1492",
+        "D": "1517"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "his-a-02",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué tratado de 1648 puso fin a la guerra de los Treinta Años?",
+      "opciones": {
+        "A": "Tratado de Tordesillas",
+        "B": "Tratado de Utrecht",
+        "C": "Paz de Westfalia",
+        "D": "Tratado de París"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-a-03",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué faraón egipcio es famoso porque su tumba fue hallada casi intacta en 1922?",
+      "opciones": {
+        "A": "Tutankamón",
+        "B": "Ramsés II",
+        "C": "Keops",
+        "D": "Akenatón"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "his-a-04",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cómo se conoce la constitución federalista que rigió a los Estados Unidos de Colombia desde 1863?",
+      "opciones": {
+        "A": "Constitución de Cúcuta",
+        "B": "Constitución de Cundinamarca",
+        "C": "Constitución de 1886",
+        "D": "Constitución de Rionegro"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "his-a-05",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué conflicto colombiano se libró entre 1899 y 1902?",
+      "opciones": {
+        "A": "La Guerra de los Mil Días",
+        "B": "La Patria Boba",
+        "C": "El Bogotazo",
+        "D": "La Guerra de los Supremos"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "his-a-06",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué dinastía gobernaba China cuando se construyó la mayor parte de la Gran Muralla que se conserva hoy?",
+      "opciones": {
+        "A": "Dinastía Han",
+        "B": "Dinastía Tang",
+        "C": "Dinastía Ming",
+        "D": "Dinastía Qin"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-a-07",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué rey de Macedonia creó uno de los imperios más grandes de la Antigüedad?",
+      "opciones": {
+        "A": "Filipo II",
+        "B": "Alejandro Magno",
+        "C": "Darío III",
+        "D": "Leónidas"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "his-a-08",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿En qué año se proclamó la Constitución Política actual de Colombia?",
+      "opciones": {
+        "A": "1886",
+        "B": "1958",
+        "C": "1991",
+        "D": "2001"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "his-a-09",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué evento de 1914 en Sarajevo desencadenó la Primera Guerra Mundial?",
+      "opciones": {
+        "A": "La invasión de Polonia",
+        "B": "El hundimiento del Lusitania",
+        "C": "La Revolución rusa",
+        "D": "El asesinato del archiduque Francisco Fernando"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "his-a-10",
+      "tema": "historia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué civilización mesoamericana desarrolló un sistema de escritura jeroglífica y un calendario de cuenta larga?",
+      "opciones": {
+        "A": "Los mayas",
+        "B": "Los incas",
+        "C": "Los muiscas",
+        "D": "Los taínos"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-b-01",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué significa la sigla CPU?",
+      "opciones": {
+        "A": "Unidad central de procesamiento",
+        "B": "Computadora personal universal",
+        "C": "Centro de programas útiles",
+        "D": "Control de puertos USB"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-b-02",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál de estos es un sistema operativo?",
+      "opciones": {
+        "A": "Google Chrome",
+        "B": "Microsoft Word",
+        "C": "Linux",
+        "D": "Photoshop"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "tec-b-03",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué dispositivo se usa para escribir texto en una computadora?",
+      "opciones": {
+        "A": "El monitor",
+        "B": "El teclado",
+        "C": "El parlante",
+        "D": "La impresora"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-b-04",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Cuántos bits tiene un byte?",
+      "opciones": {
+        "A": "4",
+        "B": "16",
+        "C": "2",
+        "D": "8"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "tec-b-05",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué significa la sigla WWW?",
+      "opciones": {
+        "A": "World Wide Web",
+        "B": "Wide Wireless Web",
+        "C": "World Web Window",
+        "D": "Web Without Wires"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-b-06",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué empresa desarrolla el sistema operativo Windows?",
+      "opciones": {
+        "A": "Apple",
+        "B": "Google",
+        "C": "Microsoft",
+        "D": "IBM"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "tec-b-07",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué tipo de memoria se borra al apagar el computador?",
+      "opciones": {
+        "A": "El disco duro",
+        "B": "La memoria RAM",
+        "C": "La memoria USB",
+        "D": "El disco SSD"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-b-08",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué es un navegador web?",
+      "opciones": {
+        "A": "Un programa para editar fotos",
+        "B": "Un antivirus",
+        "C": "Un tipo de cable de red",
+        "D": "Un programa para visitar páginas web"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "tec-b-09",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué dispositivo muestra la imagen generada por la computadora?",
+      "opciones": {
+        "A": "El ratón",
+        "B": "El monitor",
+        "C": "El escáner",
+        "D": "El micrófono"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-b-10",
+      "tema": "tecnologia",
+      "nivel": "basico",
+      "enunciado": "¿Qué tecnología inalámbrica se usa para conectar audífonos a un celular a corta distancia?",
+      "opciones": {
+        "A": "Bluetooth",
+        "B": "Fibra óptica",
+        "C": "Ethernet",
+        "D": "HDMI"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-i-01",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué protocolo se usa normalmente para cargar páginas web de forma segura?",
+      "opciones": {
+        "A": "FTP",
+        "B": "SMTP",
+        "C": "HTTPS",
+        "D": "SSH"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "tec-i-02",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué lenguaje se usa para dar estilo visual a las páginas web?",
+      "opciones": {
+        "A": "CSS",
+        "B": "SQL",
+        "C": "Python",
+        "D": "C"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-i-03",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué estructura de datos funciona con el principio LIFO (último en entrar, primero en salir)?",
+      "opciones": {
+        "A": "La cola",
+        "B": "El árbol",
+        "C": "El grafo",
+        "D": "La pila"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "tec-i-04",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿En qué base numérica trabajan internamente los computadores?",
+      "opciones": {
+        "A": "Decimal",
+        "B": "Binaria",
+        "C": "Hexadecimal",
+        "D": "Octal"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-i-05",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué significa la sigla SQL?",
+      "opciones": {
+        "A": "Simple Query Logic",
+        "B": "System Quality Language",
+        "C": "Structured Query Language",
+        "D": "Secure Query Link"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "tec-i-06",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué sistema de control de versiones creó Linus Torvalds en 2005?",
+      "opciones": {
+        "A": "Git",
+        "B": "Subversion",
+        "C": "Mercurial",
+        "D": "CVS"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-i-07",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuántas direcciones distintas permite, en teoría, una dirección IPv4 de 32 bits?",
+      "opciones": {
+        "A": "Unas 65 mil",
+        "B": "Unos 16 millones",
+        "C": "Unos 4.300 millones",
+        "D": "Unos 340 sextillones"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "tec-i-08",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué número hexadecimal equivale al decimal 255?",
+      "opciones": {
+        "A": "FF",
+        "B": "F0",
+        "C": "100",
+        "D": "EE"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-i-09",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿En qué máquina virtual se ejecuta el código de Elixir?",
+      "opciones": {
+        "A": "La JVM",
+        "B": "La BEAM de Erlang",
+        "C": "El CLR de .NET",
+        "D": "V8"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-i-10",
+      "tema": "tecnologia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué componente de una red asigna direcciones IP automáticamente a los equipos?",
+      "opciones": {
+        "A": "El servidor DNS",
+        "B": "El firewall",
+        "C": "El switch",
+        "D": "El servidor DHCP"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "tec-a-01",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es la complejidad temporal de la búsqueda binaria en un arreglo ordenado?",
+      "opciones": {
+        "A": "O(n)",
+        "B": "O(log n)",
+        "C": "O(n log n)",
+        "D": "O(1)"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-a-02",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué comportamiento de OTP se usa para crear procesos servidores genéricos en Elixir?",
+      "opciones": {
+        "A": "GenServer",
+        "B": "GenStage",
+        "C": "Agent",
+        "D": "Registry"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-a-03",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué estrategia de supervisión reinicia solamente el proceso hijo que falló?",
+      "opciones": {
+        "A": ":one_for_all",
+        "B": ":rest_for_one",
+        "C": ":simple_one_for_one",
+        "D": ":one_for_one"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "tec-a-04",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué algoritmo de ordenamiento tiene complejidad O(n log n) en el peor caso?",
+      "opciones": {
+        "A": "Quicksort",
+        "B": "Burbuja",
+        "C": "Merge sort",
+        "D": "Inserción"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "tec-a-05",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿En qué capa del modelo OSI opera el protocolo IP?",
+      "opciones": {
+        "A": "Capa de enlace de datos",
+        "B": "Capa de red",
+        "C": "Capa de transporte",
+        "D": "Capa de aplicación"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-a-06",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué propiedad ACID garantiza que una transacción se ejecute completa o no se ejecute?",
+      "opciones": {
+        "A": "Atomicidad",
+        "B": "Consistencia",
+        "C": "Aislamiento",
+        "D": "Durabilidad"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "tec-a-07",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué puerto usa por defecto el servicio EPMD de Erlang para localizar nodos?",
+      "opciones": {
+        "A": "80",
+        "B": "22",
+        "C": "8080",
+        "D": "4369"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "tec-a-08",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué teorema de sistemas distribuidos relaciona consistencia, disponibilidad y tolerancia a particiones?",
+      "opciones": {
+        "A": "Teorema de Bayes",
+        "B": "Teorema de Church-Turing",
+        "C": "Teorema CAP",
+        "D": "Teorema de Shannon"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "tec-a-09",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué patrón de diseño garantiza que una clase tenga una única instancia global?",
+      "opciones": {
+        "A": "Observer",
+        "B": "Singleton",
+        "C": "Factory",
+        "D": "Adapter"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "tec-a-10",
+      "tema": "tecnologia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué tipo de cifrado usa una clave pública y una clave privada distintas?",
+      "opciones": {
+        "A": "Simétrico",
+        "B": "Por sustitución",
+        "C": "Asimétrico",
+        "D": "Por transposición"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "geo-b-01",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es la capital de Colombia?",
+      "opciones": {
+        "A": "Medellín",
+        "B": "Bogotá",
+        "C": "Cali",
+        "D": "Cartagena"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "geo-b-02",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es el océano más grande del mundo?",
+      "opciones": {
+        "A": "Océano Atlántico",
+        "B": "Océano Índico",
+        "C": "Océano Ártico",
+        "D": "Océano Pacífico"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-b-03",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿En qué continente está Brasil?",
+      "opciones": {
+        "A": "América del Sur",
+        "B": "África",
+        "C": "Europa",
+        "D": "Asia"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-b-04",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es la capital de Francia?",
+      "opciones": {
+        "A": "Roma",
+        "B": "Madrid",
+        "C": "París",
+        "D": "Berlín"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "geo-b-05",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Qué país tiene forma de bota?",
+      "opciones": {
+        "A": "España",
+        "B": "Italia",
+        "C": "Grecia",
+        "D": "Portugal"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "geo-b-06",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Qué río recorre Colombia de sur a norte y desemboca en el mar Caribe junto a Barranquilla?",
+      "opciones": {
+        "A": "El río Cauca",
+        "B": "El río Atrato",
+        "C": "El río Meta",
+        "D": "El río Magdalena"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-b-07",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es el continente más grande del mundo?",
+      "opciones": {
+        "A": "Asia",
+        "B": "África",
+        "C": "América",
+        "D": "Europa"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-b-08",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Cuál es la capital del departamento del Quindío?",
+      "opciones": {
+        "A": "Pereira",
+        "B": "Manizales",
+        "C": "Armenia",
+        "D": "Ibagué"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "geo-b-09",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿En qué país se encuentra la Torre Eiffel?",
+      "opciones": {
+        "A": "Francia",
+        "B": "Bélgica",
+        "C": "Suiza",
+        "D": "Canadá"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-b-10",
+      "tema": "geografia",
+      "nivel": "basico",
+      "enunciado": "¿Qué país es el más grande del mundo por superficie?",
+      "opciones": {
+        "A": "China",
+        "B": "Canadá",
+        "C": "Estados Unidos",
+        "D": "Rusia"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-i-01",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?",
+      "opciones": {
+        "A": "K2",
+        "B": "El Everest",
+        "C": "El Aconcagua",
+        "D": "El Kilimanjaro"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "geo-i-02",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es la capital de Australia?",
+      "opciones": {
+        "A": "Sídney",
+        "B": "Melbourne",
+        "C": "Canberra",
+        "D": "Perth"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "geo-i-03",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es el desierto cálido más grande del mundo?",
+      "opciones": {
+        "A": "El Sahara",
+        "B": "El Gobi",
+        "C": "El de Atacama",
+        "D": "El de Kalahari"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-i-04",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuántos departamentos tiene Colombia?",
+      "opciones": {
+        "A": "30",
+        "B": "34",
+        "C": "28",
+        "D": "32"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-i-05",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué río atraviesa la ciudad de El Cairo?",
+      "opciones": {
+        "A": "El Tigris",
+        "B": "El Nilo",
+        "C": "El Éufrates",
+        "D": "El Congo"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "geo-i-06",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es la capital de Canadá?",
+      "opciones": {
+        "A": "Toronto",
+        "B": "Montreal",
+        "C": "Vancouver",
+        "D": "Ottawa"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-i-07",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué cordillera recorre el occidente de Sudamérica de norte a sur?",
+      "opciones": {
+        "A": "Los Andes",
+        "B": "Los Alpes",
+        "C": "Los Himalayas",
+        "D": "Los Apalaches"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-i-08",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Cuál es el país más poblado de Sudamérica?",
+      "opciones": {
+        "A": "Argentina",
+        "B": "Colombia",
+        "C": "Brasil",
+        "D": "Perú"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "geo-i-09",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Con cuántos países limita Colombia por tierra?",
+      "opciones": {
+        "A": "Tres",
+        "B": "Cinco",
+        "C": "Cuatro",
+        "D": "Seis"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "geo-i-10",
+      "tema": "geografia",
+      "nivel": "intermedio",
+      "enunciado": "¿Qué línea imaginaria divide la Tierra en hemisferio norte y hemisferio sur?",
+      "opciones": {
+        "A": "El meridiano de Greenwich",
+        "B": "El trópico de Cáncer",
+        "C": "El círculo polar ártico",
+        "D": "El ecuador"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-a-01",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es el lago navegable más alto del mundo, entre Perú y Bolivia?",
+      "opciones": {
+        "A": "Lago Titicaca",
+        "B": "Lago Poopó",
+        "C": "Lago de Maracaibo",
+        "D": "Lago Victoria"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-a-02",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es el punto más profundo conocido de los océanos?",
+      "opciones": {
+        "A": "La fosa de Puerto Rico",
+        "B": "El abismo Challenger",
+        "C": "La fosa de Java",
+        "D": "La fosa de Tonga"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "geo-a-03",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es la capital de Kazajistán?",
+      "opciones": {
+        "A": "Almaty",
+        "B": "Taskent",
+        "C": "Biskek",
+        "D": "Astaná"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-a-04",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué estrecho separa Europa de África?",
+      "opciones": {
+        "A": "El estrecho de Bering",
+        "B": "El estrecho de Ormuz",
+        "C": "El estrecho de Gibraltar",
+        "D": "El estrecho de Magallanes"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "geo-a-05",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "Además de Bolivia, ¿qué país de Sudamérica no tiene salida al mar?",
+      "opciones": {
+        "A": "Uruguay",
+        "B": "Paraguay",
+        "C": "Ecuador",
+        "D": "Guyana"
+      },
+      "respuesta": "B"
+    },
+    {
+      "id": "geo-a-06",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué país tiene más husos horarios contando sus territorios de ultramar?",
+      "opciones": {
+        "A": "Francia",
+        "B": "Rusia",
+        "C": "Estados Unidos",
+        "D": "China"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-a-07",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué río tiene el mayor caudal del mundo?",
+      "opciones": {
+        "A": "El Nilo",
+        "B": "El Misisipi",
+        "C": "El Congo",
+        "D": "El Amazonas"
+      },
+      "respuesta": "D"
+    },
+    {
+      "id": "geo-a-08",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Cuál es la capital de Mongolia?",
+      "opciones": {
+        "A": "Ulán Bator",
+        "B": "Kabul",
+        "C": "Katmandú",
+        "D": "Timbu"
+      },
+      "respuesta": "A"
+    },
+    {
+      "id": "geo-a-09",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿En qué país se encuentra el desierto de Atacama, uno de los más áridos del mundo?",
+      "opciones": {
+        "A": "Perú",
+        "B": "Bolivia",
+        "C": "Chile",
+        "D": "Argentina"
+      },
+      "respuesta": "C"
+    },
+    {
+      "id": "geo-a-10",
+      "tema": "geografia",
+      "nivel": "avanzado",
+      "enunciado": "¿Qué mar interior, compartido por Kazajistán y Uzbekistán, perdió gran parte de su superficie por el desvío de sus ríos?",
+      "opciones": {
+        "A": "El mar Caspio",
+        "B": "El mar de Aral",
+        "C": "El mar Muerto",
+        "D": "El mar Negro"
+      },
+      "respuesta": "B"
+    }
+  ]
+}
